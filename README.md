@@ -1,4 +1,4 @@
-# Book Store App UI UX Adobe XD Design Convent Into Flutter 3 Code
+# Book Store Application in Flutter
 A new Flutter project.
 
 ## Getting Started
